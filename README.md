@@ -31,7 +31,7 @@
 - **Phân quyền & bảo mật**: Middleware kiểm tra token và quyền truy cập
 - **Tải tệp**: Multer
 - **Lưu trữ ảnh**: Cloudinary
-- **Realtime (nếu có)**: Socket.IO
+- **Realtime **: Socket.IO
 - **Cross-Origin Resource Sharing (CORS)**: Cho phép frontend kết nối từ domain khác
 - **Môi trường**: dotenv
 
